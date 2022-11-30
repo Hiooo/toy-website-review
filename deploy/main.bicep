@@ -1,4 +1,5 @@
 //ADDING COMMENTS FOR TESTING PURPOSES
+//CREATE PR
 
 @description('The Azure region into which the resources should be deployed.')
 param location string = resourceGroup().location
